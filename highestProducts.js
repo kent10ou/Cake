@@ -1,0 +1,3 @@
+var highestProducts = function (array) {
+
+}
